@@ -124,7 +124,7 @@ html {
   padding: 10px 40px;
 }
 .product-noseclip {
-  margin-top: 100px;
+  margin-top: 80px;
   gap: 50px;
   /* justify-content: space-between; */
 }
@@ -245,10 +245,61 @@ html {
   margin-top: 10px;
 }
 .faq-question {
-  padding:  10px;
+  padding: 10px;
   display: flex;
   justify-content: space-between;
 }
 .border-bottom {
   border-color: #ffd0b0;
+}
+.men-sleep-problem {
+  padding-top: 60px;
+  margin-top: 80px;
+  padding-bottom: 48px;
+  justify-content: space-between;
+}
+.men-cannot-sleep-conatainer {
+  border-radius: 20px;
+  width: 48%;
+}
+.men-cannot-sleep-image {
+  border-radius: 20px;
+  width: 100%;
+}
+
+.pain-point-content {
+  width: 48%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.panic-man {
+  background-color: #6b2b00;
+}
+.pain-points-heading {
+  color: white;
+  font-weight: 600;
+  font-size: 48px;
+}
+
+.pain-point-second-heading {
+  color: white;
+  font-weight: 600;
+  font-size: 24px;
+  margin: 14px 0px;
+}
+
+.pain-point-description {
+  color: white;
+  line-height: 160%;
+  letter-spacing: 0.08px;
+  font-weight: 500;
+  margin-bottom: 14px;
+}
+.panic-point-list {
+  font-weight: 600;
+  list-style: none;
+  color: white;
+  line-height: 160%;
+  letter-spacing: 0.08px;
 }
